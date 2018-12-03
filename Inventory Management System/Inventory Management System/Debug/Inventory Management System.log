@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\radu\documents\github\advent-of-code-2018\inventory management system\inventory management system\main.cpp(45): warning C4101: 'id': unreferenced local variable
+  Inventory Management System.vcxproj -> C:\Users\Radu\Documents\GitHub\Advent-of-Code-2018\Inventory Management System\Debug\Inventory Management System.exe

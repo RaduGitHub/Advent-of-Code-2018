@@ -3,8 +3,8 @@
 
 using namespace std;
 
-//int ap1[1000000];
-//int ap2[1000000];
+int ap1[10000000];
+int ap2[10000000];
 
 int main() {
 	//part one
@@ -27,8 +27,8 @@ int main() {
 	//part two
 	int k;
 	int freq = 0;
-	int ap1[1000000] = { 0 };
-	int ap2[1000000] = { 0 };
+	/*int ap1[1000000] = { 0 };
+	int ap2[1000000] = { 0 };*/
 	long nums[1000];
 	int i = 0;
 
